@@ -2,14 +2,14 @@
     {
       "ID": 1,
       "Season": "20-21",
-      "Tournament": "World Open",
-      "Player1Name": "Shaun Murphy",
-      "Player2Name": "Mark King",
-      "Player1Score": 54,
-      "Player2Score": 32,
-      "GoalA": 22,
-      "GoalB": 30,
-      "GoalC": 42,
+      "Tournament": "World Championship",
+      "Player1Name": "John Higgins",
+      "Player2Name": "Kurt Maflin",
+      "Player1Score": 0,
+      "Player2Score": 0,
+      "GoalA": 40,
+      "GoalB": 64,
+      "GoalC": 120,
       "FirstPot": 1,
       "BallsX": [
         0.0559277581040463, 0, 0.00220793882080927, 0, 0, 0.276890902890173, -0.276890902890173, 0.0235229550520232, -0.390294303537572, 0, 0.049860224184971, -0.0568587419653178, -0.123700163236994, -0.0256203780346821, 0, -0.194535513849711, -0.0259660372716763, 0.0303428347976878, 0.242542015144509, -0.275468191768786, 0.557799046751445, 0.677419460323699
